@@ -1,7 +1,7 @@
 On Being
 --------
 
-Notes on the ideas brought up in Krista Tippett
+Notes on the ideas brought up in Krista Tippett's On Being podcast.
 
 Table Of Contents
 -----------------
