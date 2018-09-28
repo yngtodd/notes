@@ -8,4 +8,4 @@ Seth Godin - Life, the Internet, and Everything
    to be people who work with a compass instead, who have an understanding
    of true north and are willing to solve a problem in an interesting way.
 
-   -- Seth Gobin
+   -- Seth Godin
