@@ -1,5 +1,5 @@
 Notes
------
+=====
 
 A collection of notes on the things I am studying.
 
