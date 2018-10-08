@@ -34,7 +34,7 @@ My Thoughts (truly unstructured)
 
 * Conversation feels embodying. There is an animating force to it.
 
-* Conversation absolutely requires engagement. 
+* Conversation absolutely requires engagement. Or maybe it engages us.
 
 * When I think of the great conversations I have had, they often felt like they were 
   not owned by me, or by the other person in the conversation for that matter. And it 
