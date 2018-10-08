@@ -11,7 +11,7 @@
 Notes
 -----
 
-A collection of notes on the things I am studying.
+A collection of notes on the things I am studying, reading, and listening to.
 
 Table of Contents
 -----------------
