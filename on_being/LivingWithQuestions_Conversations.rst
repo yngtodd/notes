@@ -8,6 +8,8 @@ Living With Questions: Can Conversation Make any difference at a Moment Like Thi
 
    -- Krista Tippett
 
+Unstructured Thoughts:
+
 * Conversation requires a certain level of trust, which often must be earned before
   the conversation can begin.
 
