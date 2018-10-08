@@ -17,5 +17,5 @@ Unstructured Thoughts:
 
 * Conversation, done well, strengthens relationship.
 
-* Good conversations has good questions in it. It has really searching questions in it.
+* Good conversation has good questions in it. It has really searching questions in it.
   It has genuine curiosity. 
