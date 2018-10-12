@@ -3,7 +3,6 @@ A Tour of Reinforcement Learning: The View from Continuous Control
 ==================================================================
 
 **Author:** Ben Recht
-
 **Date:** 2018
 
 Abstract
