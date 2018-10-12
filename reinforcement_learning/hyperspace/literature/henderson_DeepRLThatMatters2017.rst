@@ -47,3 +47,34 @@ Introduction
   in machine learning and statistics."
 
   * How does this line up with the performance profiles of Dolan and More?
+
+Experimental Analysis
+---------------------
+
+* "For most of our experiments1, except for those com- paring codebases, we generally 
+  use the OpenAI Baselines2 implementations of the following algorithms: 
+  ACKTR (Wu et al. 2017), PPO (Schulman et al. 2017), DDPG (Plappert et al. 2017), 
+  TRPO (Schulman et al. 2017). We use the Hopper- v1 and 
+  HalfCheetah-v1 MuJoCo (Todorov, Erez, and Tassa 2012) environments from 
+  OpenAI Gym (Brockman et al."
+
+**Hyperparameters**
+
+* Hyperparameters are varied one at a time.
+
+Discussion and Conclusion
+-------------------------
+
+* "Based on our experimental results and investigations, we can provide some general 
+  recommendations. Hyperparameters can have significantly different effects across 
+  algorithms and environments. Thus it is important to find the working set which at 
+  least matches the original reported perfor- mance of baseline algorithms through 
+  standard hyperparame- ter searches."
+
+Supplemental Material
+---------------------
+
+This section is a gold mine for details on baselines, hyperparameter configurations, and
+their literature review. Following their lead here would be a good idea. 
+
+

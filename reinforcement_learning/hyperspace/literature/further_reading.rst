@@ -10,11 +10,21 @@ the section of that paper that it occurs in.
 
 **Example:**
 
-[  ] Paper Name - Author; Cited in: Paper Name - Section
+[  ] Paper Name - Author; Year; Cited in: Paper Name - Section
 
 
 Benchmarking RL
 ---------------
 
 [  ] Protecting against evaluation overfitting in empirical 
-reinforcement learning. - Whiteson; Deep RL that Matters - Introduction
+reinforcement learning. - Whiteson; Deep RL that Matters - 
+Introduction
+
+Reproducibility in RL
+---------------------
+
+[  ] Reproducibility of benchmarked deep reinforcement learning 
+tasks for continuous control. - Islam; 2017; Deep RL that Matters 
+- Hyperparameters (Neural Architecture)
+
+
