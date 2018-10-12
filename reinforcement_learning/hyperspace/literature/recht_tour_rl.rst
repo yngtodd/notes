@@ -19,8 +19,8 @@ learning and reviews competing solution paradigms.
 4. Simplifying theme: The Linear Quadratic Regulator
 ----------------------------------------------------
 
-I’d argue that in controls, the simplest non-trivial class of instances of optimal 
+"I’d argue that in controls, the simplest non-trivial class of instances of optimal 
 control is those with convex quadratic rewards and linear dynamics. That is, the 
-problem of the Linear Quadratic Regulator (LQR):
+problem of the Linear Quadratic Regulator (LQR):"
 
 #ToDo: add maths.
