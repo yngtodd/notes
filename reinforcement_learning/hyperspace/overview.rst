@@ -26,6 +26,7 @@ Reporducibility
 ---------------
 
 * How do we account for the stochastic nature of RL experiments?
-  - The interaction between the RL algorithm and the environment 
+  
+    The interaction between the RL algorithm and the environment 
     could change between runs without controlling initialization of 
     weights, and all random seeds.
