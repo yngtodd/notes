@@ -23,3 +23,7 @@ control is those with convex quadratic rewards and linear dynamics. That is, the
 problem of the Linear Quadratic Regulator (LQR):"
 
 #ToDo: add maths.
+
+**Cross post with blog**
+
+http://www.argmin.net/2018/02/08/lqr/
