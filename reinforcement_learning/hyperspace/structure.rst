@@ -47,5 +47,6 @@ Experiments
 -----------
 
 1. Starter Example: Linear Quadratic Regulator
- * Make a connection with Ben Recht's *Tour of RL* paper. 
- * Mention the interplay between RL and control?
+ 
+   * Make a connection with Ben Recht's *Tour of RL* paper. 
+   * Mention the interplay between RL and control?
