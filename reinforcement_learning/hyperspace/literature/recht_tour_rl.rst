@@ -3,6 +3,7 @@ A Tour of Reinforcement Learning: The View from Continuous Control
 ==================================================================
 
 **Author:** Ben Recht
+
 **Date:** 2018
 
 Abstract
@@ -13,7 +14,10 @@ and control with a focus on continuous control applications. It surveys the gene
 formulation, terminology, and typical experimental implementations of reinforcement 
 learning and reviews competing solution paradigms.
 
-**Simplifying theme: The Linear Quadratic Regulator**
+
+
+4. Simplifying theme: The Linear Quadratic Regulator
+----------------------------------------------------
 
 I’d argue that in controls, the simplest non-trivial class of instances of optimal 
 control is those with convex quadratic rewards and linear dynamics. That is, the 
