@@ -14,8 +14,14 @@ I see this as a major contribution of the paper.
 * When are RL algorithms equivalent? 
 * What if the performance of the algorithms swap if we switch to
   a new environment?
+* What are our baselines across tasks?
 
 **Proposals:**
+
+* Baselines could consist of random search for for policy methods and
+  the Linear Quadratic Regulator (LQR)
+
+  * LQR was the driver for Ben Recht's *Tour of RL* paper
 
 * Performance profiles, proposed by Dolan and More. Noted by Ben Recht.
 
