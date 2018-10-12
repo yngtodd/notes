@@ -9,7 +9,7 @@ Model Comparison
 
 **General questions:**
 
-* When is a DQN equivalent to SARSA?
+* When are RL algorithms equivalent? 
 * What if the performance of the algorithms swap if we switch to
   a new environment?
 
