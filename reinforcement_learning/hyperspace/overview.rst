@@ -21,6 +21,8 @@ I see this as a major contribution of the paper.
 * Baselines could consist of random search for for policy methods and
   the Linear Quadratic Regulator (LQR)
 
+  * Important distinction: random search in the space of policies here,
+    not in the space of hyperparameters.
   * LQR was the driver for Ben Recht's *Tour of RL* paper
 
 * Performance profiles, proposed by Dolan and More. Noted by Ben Recht.
