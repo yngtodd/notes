@@ -48,9 +48,9 @@ Experiments
 
 1. Starter Example: Linear Quadratic Regulator
    
-   * Well understood model that Ben Recht used to start of his review paper
-   * Make a connection with Ben Recht's *Tour of RL* paper. 
-   * Mention the connection between RL and control?
+* Well understood model that Ben Recht used to start of his review paper
+* Make a connection with Ben Recht's *Tour of RL* paper. 
+* Mention the connection between RL and control?
 
 **References:**
 
