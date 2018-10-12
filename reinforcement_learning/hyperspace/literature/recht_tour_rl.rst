@@ -24,5 +24,4 @@ problem of the Linear Quadratic Regulator (LQR):"
 
 #ToDo: add maths.
 
-**Cross-reference with blog**
-http://www.argmin.net/2018/02/08/lqr/
+**Cross-reference with blog:** http://www.argmin.net/2018/02/08/lqr/
