@@ -15,8 +15,6 @@ Questions to be answered:
 
 **References:**
 
-Motivation:
-
 * Deep RL that Matters - Henderson et al
 * Where did my Gradient go? Henderson et al
 
