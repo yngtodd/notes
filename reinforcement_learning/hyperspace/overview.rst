@@ -7,6 +7,8 @@ General notes to guide the HyperSpace journal paper.
 Model Comparison
 ----------------
 
+I see this as a major contribution of the paper.
+
 **General questions:**
 
 * When are RL algorithms equivalent? 
