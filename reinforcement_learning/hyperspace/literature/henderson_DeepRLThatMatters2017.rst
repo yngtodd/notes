@@ -35,3 +35,15 @@ Introduction
   by novel methods. However, reproducing deep RL results is seldom straightforward, 
   and the literature reports a wide range of results for the same baseline algorithms
   (Islam et al. 2017)."
+
+* Reproducibility can be affected by extrinsic factors (hyperparameters) and intrinsic
+  factors (random seeds and environment properties).
+
+* Paper focuses on *policy gradient methods*.
+
+* "We note that the diversity of metrics and lack of significance testing in the 
+  RL literature creates the potential for misleading reporting of results. We 
+  demonstrate possible benefits of significance testing using techniques common 
+  in machine learning and statistics."
+
+  * How does this line up with the performance profiles of Dolan and More?
