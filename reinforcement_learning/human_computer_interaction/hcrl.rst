@@ -11,7 +11,7 @@ Christiano et al worked on a method to bring people in the loop for
 reinforcement learning algorithms `[1]`_.
 
 Potential PhD avenue: designing collaborative learning systems
-that are safe and sample efficient, and communicative. 
+that are safe, sample efficient, and communicative. 
 
 
 References:
