@@ -126,10 +126,22 @@ people that walkthrough how they train their ML models for these particular comp
 you can also find details on preparing the data provided in the competitions to be used by the
 ML algorithms. 
 
+Another good starting place would be the MNIST_ competition, where you use ML models to learn 
+how to recognize hand written digits. This is a great place to start with computer vision 
+algorithms.
+
+*Deep Learning*
+
+Inevitably, you will come across neural networks and deep learning. These are the most sought 
+after ML algorithms right now, and have been applied to all sorts of domains with incredible success recently. These algorithms are now regularly used in fundamental science, search engines, recommendation systems, and many more applications. You will see a lot of debate about
+which deep learning library is the best. Often this comes down to two libraries: Tensorflow_ (designed by Google), and Pytorch_ (designed by Facebook). If you ask me, I would say go with Pytorch. It's design is much more sane, and is much more fun to use. 
+
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
 .. _Kaggle: https://www.kaggle.com
 .. _Titanic: https://www.kaggle.com/c/titanic
 .. _kernels: https://www.kaggle.com/c/titanic/kernels
-
+.. _MNIST: https://www.kaggle.com/c/digit-recognizer
+.. _Tensorflow: https://www.tensorflow.org/
+.. _Pytorch: https://pytorch.org/
