@@ -157,5 +157,5 @@ There is a ton of information out there, and it can be pretty crazy to wade thro
 .. _MNIST: https://www.kaggle.com/c/digit-recognizer
 .. _Tensorflow: https://www.tensorflow.org/
 .. _Pytorch: https://pytorch.org/
-.. _GitHub: https://github.comA
+.. _GitHub: https://github.com
 .. _tutorial: https://www.davidbaumgold.com/tutorials/command-line/
