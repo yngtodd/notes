@@ -47,7 +47,25 @@ here_. You can also download it straight from the command line with the followin
 This will download the most recent version of Anaconda (Python 3.7) and then start
 the install process. Follow the prompts for the install process. At some point, 
 Anaconda will ask you if you want to install at a certain default location. This 
-should be :code:`/Users/<username>/anaconda3`.
+should be :code:`/Users/<username>/anaconda3`. Anaconda should then ask if you would
+like to save the this location to your :code:`~/.bashrc`. This is definitely a good idea,
+it will help point you to the right location of your new Python install. Once that is 
+all setup, restart your terminal and check on Python again:
+
+ *Check to see what Python version you have:*
+
+ .. code-block:: console
+
+     python --version
+
+ *Check where that version of Python lives:*
+
+ .. code-block:: console
+
+     which python
+
+You should now see that you are running Python 3.7 and that it is installed at 
+:code:`/Users/<username>/anaconda3` (if you kept all the defaults at install).
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
