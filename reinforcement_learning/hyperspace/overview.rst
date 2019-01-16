@@ -32,7 +32,7 @@ Questions:
 * What would happen if we ran the performance profiles across the top k
   models found by HyperSpace? How would they compare with the baselines?
 
-Reporducibility
+Reproducibility
 ---------------
 
 * How do we account for the stochastic nature of RL experiments?
