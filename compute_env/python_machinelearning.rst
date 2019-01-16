@@ -105,7 +105,31 @@ you can install it with
     pip install <package-name>
 
 Just replace :code:`package-name` with the name of the package you would like to install.
+Here are some notable libraries that should come installed with Anaconda:
+
+* Numpy: linear algebra and arrays (One of my favorite libraries)
+* Scikit-Learn: a collection of machine learning algorithms
+* Pandas: tabular data storage; used frequently in places like Kaggle competitions
+* Scipy: scientific computing and optimization
+
+There are a ton of other libraries out there. If there is something you would like to use 
+Python for, chances are someone has some code to help you out with that.
+
+*Machine Learning*
+
+Machine learning (ML) is the bread and butter of what I do. There are tons of resources out there, but there is nothing like trying your hands at using these algorithms. For that, I 
+highly recommend checking out Kaggle_, a site that hosts machine learning competitions, often
+with some big prizes. I would start by checking out the Titanic_ competition, where you build 
+a model to predict survival on the Titanic. You can find a lot of code examples in each 
+competition's ```kernels``` section. Checkout the Titanic kernels_. There are tons of helpful
+people that walkthrough how they train their ML models for these particular competitions. Often
+you can also find details on preparing the data provided in the competitions to be used by the
+ML algorithms. 
 
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
+.. _Kaggle: https://www.kaggle.com
+.. _Titanic: https://www.kaggle.com/c/titanic
+.. _kernels: https://www.kaggle.com/c/titanic/kernels
+
