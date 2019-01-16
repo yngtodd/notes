@@ -33,6 +33,21 @@ the programming language.
 We are going to want to run `Python 3`, and we are going to want a way to 
 get access to all of the open source projects out there. For this, I would 
 recommend using Anaconda_, a distribution of Python that comes ready with 
-many popular Python libraries ready to use. 
+many popular Python libraries ready to use. This distribution is essentially
+a new version of Python (currently Python 3.7), many libraries that are regularly
+used by Python programers, and a package manager that keeps all our installed 
+libraries sorted. You can download the Anaconda distribution by following the link
+here_. You can also download it straight from the command line with the following:
 
-.. _Anaconda:
+.. code-block:: console
+
+    wget -c https://repo.continuum.io/archive/Anaconda3-2018.12-MacOSX-x86_64.sh
+    bash Anaconda3-2018.12-MacOSX-x86_64.sh
+
+This will download the most recent version of Anaconda (Python 3.7) and then start
+the install process. Follow the prompts for the install process. At some point, 
+Anaconda will ask you if you want to install at a certain default location. This 
+should be `/Users/<username>/anaconda3`.
+
+.. _Anaconda: https://www.anaconda.com/download/#macos
+.. _here: https://www.anaconda.com/download/#macos
