@@ -52,20 +52,60 @@ like to save the this location to your :code:`~/.bashrc`. This is definitely a g
 it will help point you to the right location of your new Python install. Once that is 
 all setup, restart your terminal and check on Python again:
 
- *Check to see what Python version you have:*
+*Check to see what Python version you have:*
 
- .. code-block:: console
+.. code-block:: console
 
-     python --version
+    python --version
 
- *Check where that version of Python lives:*
+*Check where that version of Python lives:*
 
- .. code-block:: console
+.. code-block:: console
 
-     which python
+    which python
 
 You should now see that you are running Python 3.7 and that it is installed at 
 :code:`/Users/<username>/anaconda3` (if you kept all the defaults at install).
+
+You can then run a Python interpreter by running the following:
+
+.. code-block:: console
+
+    ipython
+
+Test to see if you can then import and use one of the libraries installed with 
+Anaconda:
+
+.. code-block:: python
+
+    import numpy as np
+
+    random_array = np.random.randn(5)
+    print(f'My random array: {random_array}')
+
+If all of that works, you are in business! What the above code is doing is first 
+loading a linear algebra library, numpy, and aliasing it as :code:`np`. We are then 
+initializing an array of five elements with random values, and finally printing out 
+the contents of that array. When you are done using the :code:`ipython` Python 
+interpreter, you can close it with :code:`quit()`.
+
+The Anaconda distribution comes with a lot of Python libraries. To check out what these
+are, run 
+
+.. code-block:: console
+
+    pip list
+
+This will give you a big list of all the libraries you have installed, along with their 
+version numbers. If you ever come across some Python package that is not currently installed, 
+you can install it with 
+
+.. code-blcok:: console
+
+    pip install <package-name>
+
+Just replace :code:`package-name` with the name of the package you would like to install.
+
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
