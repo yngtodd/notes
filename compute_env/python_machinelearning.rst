@@ -15,4 +15,5 @@ Terminal application and running the following:
 *Check to see what Python version you have*
 
 .. code-block:: console
+
     python --version
