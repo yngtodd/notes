@@ -47,7 +47,7 @@ here_. You can also download it straight from the command line with the followin
 This will download the most recent version of Anaconda (Python 3.7) and then start
 the install process. Follow the prompts for the install process. At some point, 
 Anaconda will ask you if you want to install at a certain default location. This 
-should be `/Users/<username>/anaconda3`.
+should be :code:`/Users/<username>/anaconda3`.
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
