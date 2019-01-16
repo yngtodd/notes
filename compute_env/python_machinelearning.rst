@@ -100,7 +100,7 @@ This will give you a big list of all the libraries you have installed, along wit
 version numbers. If you ever come across some Python package that is not currently installed, 
 you can install it with 
 
-.. code-blcok:: console
+.. code-block:: console
 
     pip install <package-name>
 
