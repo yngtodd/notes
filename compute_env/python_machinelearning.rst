@@ -136,6 +136,14 @@ Inevitably, you will come across neural networks and deep learning. These are th
 after ML algorithms right now, and have been applied to all sorts of domains with incredible success recently. These algorithms are now regularly used in fundamental science, search engines, recommendation systems, and many more applications. You will see a lot of debate about
 which deep learning library is the best. Often this comes down to two libraries: Tensorflow_ (designed by Google), and Pytorch_ (designed by Facebook). If you ask me, I would say go with Pytorch. It's design is much more sane, and is much more fun to use. 
 
+*Version Control and UNIX*
+
+Though you can get by without using version control and without diving deep into the UNIX
+environment, having some familiarity with these topics is incredibly helpful. Version control
+helps us to maintain organization and sanity when writing code. It allows us to test new ideas while maintaining versions of our work. GitHub_ is definitely worth checking out. This is where I keep all of my work, both for work and personal use. UNIX is family of operating systems, of which MacOS is a part. You definitely do not need to do a deep dive into UNIX and the UNIX 
+philosophy, but it is useful to learn the fundamentals of the command line if you are not 
+familiar with it. You may already know all of this, forgive me if you do. If you aren't super 
+familiar with the command line, here is a pretty good tutorial_.
 
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
@@ -145,3 +153,5 @@ which deep learning library is the best. Often this comes down to two libraries:
 .. _MNIST: https://www.kaggle.com/c/digit-recognizer
 .. _Tensorflow: https://www.tensorflow.org/
 .. _Pytorch: https://pytorch.org/
+.. _GitHub: https://github.comA
+.. _tutorial: https://www.davidbaumgold.com/tutorials/command-line/
