@@ -145,6 +145,10 @@ philosophy, but it is useful to learn the fundamentals of the command line if yo
 familiar with it. You may already know all of this, forgive me if you do. If you aren't super 
 familiar with the command line, here is a pretty good tutorial_.
 
+*Notes*
+
+There is a ton of information out there, and it can be pretty crazy to wade through. Hopefully this doesn't seem like some crazy dense forest that you can get lost in. Or maybe it does, just hopefully in a good way. Let me know if you have any questions. There are tons of other resources out there that I can point you to if you want to dig into some of these topics!
+
 .. _Anaconda: https://www.anaconda.com/download/#macos
 .. _here: https://www.anaconda.com/download/#macos
 .. _Kaggle: https://www.kaggle.com
